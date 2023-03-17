@@ -1,0 +1,136 @@
+{
+    "title": "Interactive story path",
+    "description": "This is a tool to produce an interactive learning path through material used in EhB. This will be done through video's, questions and feedback.",
+    "goals": {
+      "id": "1-goals",
+      "title": "Goals",
+      "description": "These are the goals for this course",
+      "list": [
+        "Goal 1: be awesome",
+        "Goal 2: be amazing",
+        "Goal 3: learn something"
+      ]
+    },
+    "theory": {
+      "id": "2-theory",
+      "title": "Theory",
+      "description": "These are the theory subjects for this course",
+      "list": [
+        "Theory 1: be awesome",
+        "Theory 2: be amazing",
+        "Theory 3: learn something"
+      ]
+    },
+    "exercises": [
+      {
+        "id": "exercise-1",
+        "title": "scenario 1",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Choice A: Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Choice B: Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      },
+      {
+        "id": "exercise-2",
+        "title": "scenario 2",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Choice A: Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Choice B: Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      },{
+        "id": "exercise-3",
+        "title": "scenario 3",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      },{
+        "id": "exercise-4",
+        "title": "scenario 4",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Choice A: Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Choice B: Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      },{
+        "id": "exercise-5",
+        "title": "scenario 5",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      },{
+        "id": "exercise-6",
+        "title": "scenario 6",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "py53-Lz2aS0",
+        "titleChoiceA": "Choice A: Focus on strength",
+        "videoIdChoiceA": "IvTLE25AzeQ",
+        "titleChoiceB": "Choice B: Focus on empathy",
+        "videoIdChoiceB": "mwPB8T30EFU",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "this is the reason why this clip is the best option"
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "this is the reason why this clip is the worst option"
+        },
+        "finished": false
+      }
+    ]
+  }
