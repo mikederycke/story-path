@@ -7,7 +7,7 @@ const InfoSection = ({description, list, title, id}) => {
       <Accordion.Item eventKey={id}>
         <Accordion.Header>{title}</Accordion.Header>
         <Accordion.Body>
-          {description}
+          <p>{description}</p>
         <ul>
             {list.map(e => 
                 <li>{e}</li>

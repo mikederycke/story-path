@@ -61,7 +61,6 @@ function Exercise({ex, onClick}) {
             </div>
           </div>
           <br></br>
-      
           {/* Input fields */}
           <InputGroup className="mb-3">
           <InputGroup.Text id="basic-addon1">@</InputGroup.Text>
