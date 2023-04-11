@@ -1,5 +1,5 @@
 import React from 'react'
-import YoutubeVideo from './youtubeVideo';
+import YoutubeVideo from './Scenario/YoutubeVideo';
 import Accordion from 'react-bootstrap/Accordion'
 
 const ExerciseFeedback = ({ex}) => {

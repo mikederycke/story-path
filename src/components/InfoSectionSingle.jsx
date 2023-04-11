@@ -1,16 +1,16 @@
 import React from 'react'
 import Accordion from 'react-bootstrap/Accordion'
 
-const InfoSection = ({description, list, title, id}) => {
+const InfoSectionSingle = ({description, list, title, id}) => {
   return (
     
       <Accordion.Item eventKey={id}>
         <Accordion.Header>{title}</Accordion.Header>
         <Accordion.Body>
-          <p>{description}</p>
+        <p>{description}</p>
         <ul>
             {list.map(e => 
-                <li>{e}</li>
+                <li key={Math.random()}>{e}</li>
             )}
         </ul>
         </Accordion.Body>
@@ -20,4 +20,4 @@ const InfoSection = ({description, list, title, id}) => {
   )
 }
 
-export default InfoSection
+export default InfoSectionSingle

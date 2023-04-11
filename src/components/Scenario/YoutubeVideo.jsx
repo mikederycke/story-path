@@ -5,8 +5,8 @@ const YoutubeVideo = ({ videoId }) => {
 
   return (
     <iframe
-      width="560"
-      height="315"
+      width="450"
+      height="253"
       src={src}
       title="YouTube video player"
       frameBorder="0"

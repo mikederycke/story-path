@@ -1,0 +1,428 @@
+{
+    "title": "Interactieve leerpaden!",
+    "description": "TO BE DETERMINED! Algemene beschrijving van de tool gaat hier",
+    "goals": {
+      "id": 1,
+      "title": "Doelstellingen",
+      "list": [
+        "Student kan de functie en het effect van de verschillende gespreksvaardigheden herkennen (actief luisteren, samenvatten, doorvragen, echoën en gevoelensreflectie).",
+        "Student reflecteert over het doel en het effect van de verschillende gespreksvaardigheden.",
+        "De student kan deskundig en menswaardig omgaan met existentiële vragen en zich hierbij richten op de behoeften van de zorgvrager."
+      ]
+    },
+    "theory": {
+      "id": 2,
+      "title": "Theorie",
+      "description": "De theorie overloopt 4 pijlers: Professionele houding, Gespreksvaardigheden, Omgaan met emoties en Psychosociale achtergrond.",
+      "list": [
+        {
+          "block": "1",
+          "title": "Professionele houding",
+          "content": [
+            {
+              "title": "IERA kader",
+              "descr": "een boodschap bestaat uit vier betekenislagen en het is belangrijk om als zorgverlener de uitspraak van een zorgvrager op deze vier niveau’s te behandelen. Valkuil: alleen ingaan op het inhoudelijke niveau.",
+              "content": [
+                {
+                  "title": "Inhoud",
+                  "descr": "De inhoud, feitelijke informatie, wat wordt gezegd."
+                },
+                {
+                  "title": "Expressief",
+                  "descr": "Oppikken op welke manier zorgvrager iets zegt, welke emotie is zichtbaar/hoorbaar/voelbaar, met welke lichaamstaal, ..."
+                },
+                {
+                  "title": "Relationeel",
+                  "descr": "Hoe kijkt de zorgvrager naar jou, wat vindt de ander van jou, binnen welke relaties gebeurt de communicatie, ..."
+                },{
+                  "title": "Appellerend",
+                  "descr": "Wat verwacht de zorgvrager van jou, wat wil de zorgvrager bij jou bereiken (expliciet of impliciet)?"
+                }]
+            },{
+              "title": "Basishouding",
+              "descr": "De basishouding van een zorgverlener wordt gekenmerkt door:",
+              "content": [
+                {
+                  "title": "Echtheid",
+                  "descr": "De zorgverlener is zich bewust van de eigen gevoelens, is oprecht geïnteresseerd in de zorgvrager én stemt de eigen gevoelens/het eigen gedrag af op de zorgvrager."
+                },
+                {
+                  "title": "Empathie",
+                  "descr": "De zorgverlener leeft zich in de zorgvrager in en wil de ervaringen/belevingswereld van de zorgvrager begrijpen."
+                },
+                {
+                  "title": "Onvoorwaardelijke aanvaarding en respect",
+                  "descr": "De zorgverlener aanvaardt de belevingswereld van de zorgvrager en behoudt een respectvolle houding ondanks mogelijke negatieve eigenschappen of negatief gedrag van de zorgvrager."
+                }]
+            },{
+              "title": "Inhoudsniveau",
+              "descr": "Elke communicatie heeft een inhoudsniveau en een betrekkingsniveau:",
+              "content": [
+                {
+                  "title": "Inhoudsniveau",
+                  "descr": "Wat gezegd wordt."
+                },
+                {
+                  "title": "Betrekkingsniveau",
+                  "descr": "Wie en hoe iets wordt gezegd."
+                }]
+            },{
+              "title": "Verschillende niveau's",
+              "descr": "Elke communicatie bestaat uit verschillende niveaus:",
+              "content": [
+                {
+                  "title": "Verbaal",
+                  "descr": "De woorden."
+                },
+                {
+                  "title": "Non-verbaal",
+                  "descr": "De lichaamstaal, de gezichtsuitdrukking."
+                },
+                {
+                  "title": "Para-verbaal",
+                  "descr": "De stemexpressie, intonatie."
+                }]
+            }
+          ]
+        },{
+          "block": "2",
+          "title": "Gespreksvaardigheden",
+          "content": [
+            {
+              "title": "Actief luisteren",
+              "descr": "Niet alleen luisteren naar de woorden (inhoud of feiten), maar ook de betekenis en gevoelens van de ander willen begrijpen. Vijf kenmerken van actief luisteren: aandacht geven, laten zien dat je luistert, terugkoppelen, je mening/oordeel uitstellen en gepast reageren."
+            },{
+              "title": "Samenvatten",
+              "descr": "In eigen woorden (maar zonder interpretatie) herhalen van de essentie van één langere boodschap of het verhaal van de ander met als doel het gesprek te structureren of na te gaan of je de ander begrepen hebt. "
+            },{
+              "title": "Doorvragen",
+              "descr": "Aan de hand van open of gesloten vragen de ander uitnodigen om verder te vertellen of nagaan of je de ander begrepen hebt of het gesprek in een bepaalde richting sturen."
+            },{
+              "title": "Echoën",
+              "descr": "letterlijk en krachtig herhalen van een betekenisvol woord of kort deel van een zin (wat volgens jou de essentie van de boodschap is - eventueel in vraagvorm)."
+            },{
+              "title": "Gevoelensreflectie",
+              "descr": "het onderliggende gevoel proberen te benoemen - in vraagvorm!"
+            }
+          ]
+        },{
+          "block": "3",
+          "title": "Omgaan met emoties",
+          "content": [
+            {
+              "title": "",
+              "descr": "Emoties hebben (onder andere) een communicatieve functie, dit betekent dat de zorgvrager iets wil communiceren met zijn/haar emotie. "
+            },{
+              "title": "",
+              "descr": "Achter een emotie zit ook een behoefte"
+            },{
+              "title": "",
+              "descr": "De zorgverlener kan verschillende stappen doorlopen om op een gepaste manier om te gaan met de emoties van de zorgvrager: ",
+              "content": [
+                {
+                  "title": "Voelen",
+                  "descr": "De emotie van de zorgvrager opmerken."
+                },
+                {
+                  "title": "Benoemen",
+                  "descr": "De emotie van de zorgvrager benoemen."
+                },
+                {
+                  "title": "Toekennen",
+                  "descr": "Achterhalen van waar de emotie vandaan komt."
+                },{
+                  "title": "Actie",
+                  "descr": "De behoefte invullen, hulp bieden."
+                }]
+            }
+          ]
+        },{
+          "block": "4",
+          "title": "Psychosociale achtergrond",
+          "content": [
+            {
+              "title": "Kernconflict Erikson 'ego-integriteit'",
+              "descr": "Zinvolle afsluiting van het leven. Persoon slaagt erin om zijn hele persoon tot een eenheid te verwerken, met inbegrip van alle eigenschappen en gebeurtenissen.  Met kan zich dus verzoenen met het leven zoals het geweest is, met de vreugdevolle en de verdrietige of moeilijke gebeurtenissen. Dit kan ertoe leiden dat zorgvrager overschouwt dat het leven goed geweest is en afgerond mag worden. De negatieve pool, de wanhoop, kan er ook toe leiden dat zorgvrager een einde wil maken aan een leven dat als niet-waardevol beschouwd wordt."
+            },{
+              "title": "Holistisch mensbeeld",
+              "descr": "Niet alleen de biologische dimensie van de zorgvrager speelt een rol, maar ook de sociale context (hoe ziet het sociale netwerk eruit?), bepaalde emoties (zich eenzaam voelen of net tevredenheid over hoe het leven geweest is), bepaalde overtuigingen (het is tijd voor mij om te gaan), … en ook een spirituele dimensie (hoe kijkt zorgvrager naar de waarde van het leven, de dood, …)."
+            },{
+              "title": "Coping",
+              "descr": "Op welke manier gaat de zorgvrager om met de dingen die zich voordoen in diens leven? Hoe gaat zorgvrager om met het ouder worden, de groter wordende afhankelijkheid?",
+              "content": [
+                {
+                  "title": "Probleemgerichte coping",
+                  "descr": "Het leven doet teveel pijn, dus de dood als oplossing? Of kan zorgvrager nadenken over mogelijke manieren om het leven nog zinvol te maken? Kan zorgvrager kijken naar de dingen waarin hij/zij wel nog autonoom is?"
+                },
+                {
+                  "title": "Emotiegerichte coping",
+                  "descr": "Is het voor de zorgvrager voldoende als die af en toe kan/mag ventileren, de emoties hierrond uiten?"
+                }]
+            },{
+              "title": "Sociale relaties",
+              "descr": "Is er sprake van sociale eenzaamheid door het wegvallen van het sociale netwerk? Het gevoel alleen achter te blijven?"
+            }
+          ]
+        }
+
+        
+      ]
+    },
+    "walkthrough":{
+      "desc": "In dit interactief scenario ga je stap per stap een scene voorgeschoteld krijgen. Per scene dien je de juiste reactie aan te duiden en je argumentatie neer te schrijven. Na elke keuze volgt de feedback. Op het einde van het scenario krijg je een overzicht van al jouw keuzes en argumentatie. \\n Gelieve hieronder jouw naam en school email op te geven."
+    },
+    "scenarios": [
+      {
+        "id": 1,
+        "title": "Levensbeschouwing 1",
+        "description": "Dit is een algemene beschrijving van dit scenario. In te vullen naar believen (of niet)",
+        "steps": [
+          {
+          "step": 0,
+          "title": "Introductie",
+          "goals": {
+            "title": "Scenario doelstellingen",
+            "list": [
+              "Student kan de functie en het effect van de verschillende gespreksvaardigheden herkennen (actief luisteren, samenvatten, doorvragen, echoën en gevoelensreflectie).",
+              "Student reflecteert over het doel en het effect van de verschillende gespreksvaardigheden.",
+              "De student kan deskundig en menswaardig omgaan met existentiële vragen en zich hierbij richten op de behoeften van de zorgvrager."
+            ]
+          },
+          "theory": {
+            "title": "Scenario Theorie",
+            "description": "Deze theorie is uniek aan dit scenario.",
+            "list": [
+                {
+                "block": "41",
+                "title": "Psychosociale achtergrond",
+                "content": [
+                  {
+                    "title": "Kernconflict Erikson 'ego-integriteit'",
+                    "descr": "Zinvolle afsluiting van het leven. Persoon slaagt erin om zijn hele persoon tot een eenheid te verwerken, met inbegrip van alle eigenschappen en gebeurtenissen.  Met kan zich dus verzoenen met het leven zoals het geweest is, met de vreugdevolle en de verdrietige of moeilijke gebeurtenissen. Dit kan ertoe leiden dat zorgvrager overschouwt dat het leven goed geweest is en afgerond mag worden. De negatieve pool, de wanhoop, kan er ook toe leiden dat zorgvrager een einde wil maken aan een leven dat als niet-waardevol beschouwd wordt."
+                  },{
+                    "title": "Holistisch mensbeeld",
+                    "descr": "Niet alleen de biologische dimensie van de zorgvrager speelt een rol, maar ook de sociale context (hoe ziet het sociale netwerk eruit?), bepaalde emoties (zich eenzaam voelen of net tevredenheid over hoe het leven geweest is), bepaalde overtuigingen (het is tijd voor mij om te gaan), … en ook een spirituele dimensie (hoe kijkt zorgvrager naar de waarde van het leven, de dood, …)."
+                  },{
+                    "title": "Coping",
+                    "descr": "Op welke manier gaat de zorgvrager om met de dingen die zich voordoen in diens leven? Hoe gaat zorgvrager om met het ouder worden, de groter wordende afhankelijkheid?",
+                    "content": [
+                      {
+                        "title": "Probleemgerichte coping",
+                        "descr": "Het leven doet teveel pijn, dus de dood als oplossing? Of kan zorgvrager nadenken over mogelijke manieren om het leven nog zinvol te maken? Kan zorgvrager kijken naar de dingen waarin hij/zij wel nog autonoom is?"
+                      },
+                      {
+                        "title": "Emotiegerichte coping",
+                        "descr": "Is het voor de zorgvrager voldoende als die af en toe kan/mag ventileren, de emoties hierrond uiten?"
+                      }]
+                  },{
+                    "title": "Sociale relaties",
+                    "descr": "Is er sprake van sociale eenzaamheid door het wegvallen van het sociale netwerk? Het gevoel alleen achter te blijven?"
+                  }
+                ]
+              }
+            ]
+          }
+          },{
+            "step": 1,
+            "title": "Startscene",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Iedereen ligt 's nachts wel eens wakker",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Te oud voor geworden?",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": false,
+              "explanation": "In communicatie zijn er verschillende veelgemaakte fouten: verbloemen, minimaliseren, verrechtvaardigen/rationaliseren, over eigen ervaringen praten, in discussie gaan, zorgvrager een oplossing opdringen, negeren van gevoelens"
+            },
+            "feedbackB": {
+              "correct": true,
+              "explanation": "Zorgverlener gebruikt hier 'echoën' als gespreksvaardigheid en stimuleert op die manier de zorgvrager om verder te praten.   Het gesprek is net gestart waardoor je nog niet veel informatie hebt. Door bij de woorden van de zorgvrager te blijven, wordt de zorgvrager uitgedaagd om verder te vertellen enerzijds en voorkom je eigen invulling anderzijds."
+            }
+          },
+          {
+            "step": 2,
+            "title": "Vervolg scene 1",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Bedoel je dan dat je pijn hebt 's nachts?",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Met ouder worden, worden de kwaaltjes er ook niet minder op natuurlijk.",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": true,
+              "explanation": "Zorgverlener vraagt door aan de hand van een gesloten vragen. Op die manier maakt ze de boodschap van de zorgvrager concreet + checkt ze of ze de boodschap goed begrepen heeft + eventueel kan de zorgvrager hier nog meer over vertellen."
+            },
+            "feedbackB": {
+              "correct": false,
+              "explanation": "Zorgverlener maakt de fout van het verrechtvaardigen/rationaliseren. Hierbij geeft de zorgverlener een rationele verklaring voor de ervaring van de zorgvrager. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet ernstig genomen voelt en het gesprek stilvalt."
+            }
+          },
+          {
+            "step": 3,
+            "title": "Vervolg scene 2",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Oei, hoe bedoel je dat?",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": true,
+              "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
+            },
+            "feedbackB": {
+              "correct": false,
+              "explanation": "Zorgverlener maakt de fout van het in discussie gaan. Ze gaat in discussie met de zorgvrager over diens ervaring en bepaalt voor de zorgvrager hoe ze zich mag/moet voelen of wat ze mag/moet ervaren. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet erkend voelt in haar beleving en het gesprek stilvalt. Zorgverlener negeert de psychosociale achtergrond van de zorgvrager."
+            }
+          }
+        ],
+        "final": {
+          "videoId": "py53-Lz2aS0",
+          "paragraphs":[
+            "In dit gespreksfragment heeft de zorgverlener een onmiddellijke behoefte van de zorgvrager (het kunnen rusten) kunnen invullen nadat ze geëxploreerd heeft wat precies de (levens)moeheid omvat en betekent voor de zorgvrager.",
+            "Uitspraken waarbij de zorgvrager een ‘wens tot levenseinde’ uit, bestaan in verschillende gradaties. Dit kan gaan van een ‘overschouwen van het leven’ over ‘levensmoeheid’ tot ‘effectieve doodswensen’. De inhoud van dergelijke gesprekken worden steeds gedeeld met het multidisciplinair team om de hulpvraag duidelijk te krijgen, risicofactoren die aan de basis liggen van eventuele levensmoeheid op te sporen én de nodige ondersteuning vanuit het volledige team te kunnen geven.",
+            "Dit fragment gebruikt het thema ‘levensbeschouwing’ om het doel en effect van een aantal gespreksvaardigheden te duiden. Het kan een voorbeeld geven van hoe je in dialoog kan blijven met de zorgvrager. Elk verhaal is uniek en daarom is het ook belangrijk om jouw eigen dialoog te kunnen aanpassen aan een concrete zorgsituatie.",
+            "Niet alleen elk verhaal, maar ook elk gesprek is uniek. Dit gespreksfragment heeft als doel ‘een goed voorbeeld’ te zijn, naast andere mogelijke goede voorbeelden.",
+            "Ben je geboeid geraakt door het thema ‘Levensbeschouwing’, dan kan je op volgende websites nog meer informatie vinden:"
+          ],
+          "links": [
+            {
+              "title": "De ontwikkeling van doodsgedachten bij ouderen. Suïcidepreventie bij ouderen - Praktijkadviezen voor zorg- en hulpverleners.",
+              "url": "https://www.vlesp.be/publicaties"
+            },
+            {
+              "title": "Ethisch advies rond levensmoeheid",
+              "url": "https://www.zorgneticuro.be/sites/default/files/201112%20Ethisch%20advies%2022%20levensmoeheid%20def.pdf"
+            }
+          ]
+        }
+      },{
+        "id": 2,
+        "title": "Levensbeschouwing 2",
+        "description": "Dit is een algemene beschrijving van dit scenario. In te vullen naar believen (of niet)",
+        "steps": [
+          {
+            "step": 0,
+            "title": "Introductie",
+            "goals": {
+              "title": "Scenario doelstellingen",
+              "list": [
+                "Student kan de functie en het effect van de verschillende gespreksvaardigheden herkennen (actief luisteren, samenvatten, doorvragen, echoën en gevoelensreflectie).",
+                "Student reflecteert over het doel en het effect van de verschillende gespreksvaardigheden.",
+                "De student kan deskundig en menswaardig omgaan met existentiële vragen en zich hierbij richten op de behoeften van de zorgvrager."
+              ]
+            },
+            "theory": {
+              "title": "Scenario Theorie",
+              "description": "Deze theorie is uniek aan dit scenario.",
+              "list": [
+                  {
+                  "block": "41",
+                  "title": "Psychosociale achtergrond",
+                  "content": [
+                    {
+                      "title": "Kernconflict Erikson 'ego-integriteit'",
+                      "descr": "Zinvolle afsluiting van het leven. Persoon slaagt erin om zijn hele persoon tot een eenheid te verwerken, met inbegrip van alle eigenschappen en gebeurtenissen.  Met kan zich dus verzoenen met het leven zoals het geweest is, met de vreugdevolle en de verdrietige of moeilijke gebeurtenissen. Dit kan ertoe leiden dat zorgvrager overschouwt dat het leven goed geweest is en afgerond mag worden. De negatieve pool, de wanhoop, kan er ook toe leiden dat zorgvrager een einde wil maken aan een leven dat als niet-waardevol beschouwd wordt."
+                    },{
+                      "title": "Holistisch mensbeeld",
+                      "descr": "Niet alleen de biologische dimensie van de zorgvrager speelt een rol, maar ook de sociale context (hoe ziet het sociale netwerk eruit?), bepaalde emoties (zich eenzaam voelen of net tevredenheid over hoe het leven geweest is), bepaalde overtuigingen (het is tijd voor mij om te gaan), … en ook een spirituele dimensie (hoe kijkt zorgvrager naar de waarde van het leven, de dood, …)."
+                    },{
+                      "title": "Coping",
+                      "descr": "Op welke manier gaat de zorgvrager om met de dingen die zich voordoen in diens leven? Hoe gaat zorgvrager om met het ouder worden, de groter wordende afhankelijkheid?",
+                      "content": [
+                        {
+                          "title": "Probleemgerichte coping",
+                          "descr": "Het leven doet teveel pijn, dus de dood als oplossing? Of kan zorgvrager nadenken over mogelijke manieren om het leven nog zinvol te maken? Kan zorgvrager kijken naar de dingen waarin hij/zij wel nog autonoom is?"
+                        },
+                        {
+                          "title": "Emotiegerichte coping",
+                          "descr": "Is het voor de zorgvrager voldoende als die af en toe kan/mag ventileren, de emoties hierrond uiten?"
+                        }]
+                    },{
+                      "title": "Sociale relaties",
+                      "descr": "Is er sprake van sociale eenzaamheid door het wegvallen van het sociale netwerk? Het gevoel alleen achter te blijven?"
+                    }
+                  ]
+                }
+              ]
+            }
+            },
+          {
+            "step": 1,
+            "title": "Startscene",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Iedereen ligt 's nachts wel eens wakker",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Te oud voor geworden?",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": false,
+              "explanation": "In communicatie zijn er verschillende veelgemaakte fouten: verbloemen, minimaliseren, verrechtvaardigen/rationaliseren, over eigen ervaringen praten, in discussie gaan, zorgvrager een oplossing opdringen, negeren van gevoelens"
+            },
+            "feedbackB": {
+              "correct": true,
+              "explanation": "Zorgverlener gebruikt hier 'echoën' als gespreksvaardigheid en stimuleert op die manier de zorgvrager om verder te praten.   Het gesprek is net gestart waardoor je nog niet veel informatie hebt. Door bij de woorden van de zorgvrager te blijven, wordt de zorgvrager uitgedaagd om verder te vertellen enerzijds en voorkom je eigen invulling anderzijds."
+            }
+          },
+          {
+            "step": 2,
+            "title": "Vervolg scene 1",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Bedoel je dan dat je pijn hebt 's nachts?",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Met ouder worden, worden de kwaaltjes er ook niet minder op natuurlijk.",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": true,
+              "explanation": "Zorgverlener vraagt door aan de hand van een gesloten vragen. Op die manier maakt ze de boodschap van de zorgvrager concreet + checkt ze of ze de boodschap goed begrepen heeft + eventueel kan de zorgvrager hier nog meer over vertellen."
+            },
+            "feedbackB": {
+              "correct": false,
+              "explanation": "Zorgverlener maakt de fout van het verrechtvaardigen/rationaliseren. Hierbij geeft de zorgverlener een rationele verklaring voor de ervaring van de zorgvrager. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet ernstig genomen voelt en het gesprek stilvalt."
+            }
+          },
+          {
+            "step": 3,
+            "title": "Vervolg scene 2",
+            "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+            "videoId": "py53-Lz2aS0",
+            "titleChoiceA": "Oei, hoe bedoel je dat?",
+            "videoIdChoiceA": "IvTLE25AzeQ",
+            "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
+            "videoIdChoiceB": "mwPB8T30EFU",
+            "feedbackA": {
+              "correct": true,
+              "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
+            },
+            "feedbackB": {
+              "correct": false,
+              "explanation": "Zorgverlener maakt de fout van het in discussie gaan. Ze gaat in discussie met de zorgvrager over diens ervaring en bepaalt voor de zorgvrager hoe ze zich mag/moet voelen of wat ze mag/moet ervaren. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet erkend voelt in haar beleving en het gesprek stilvalt. Zorgverlener negeert de psychosociale achtergrond van de zorgvrager."
+            }
+          }
+        ],
+        "final": {
+          "videoId": "py53-Lz2aS0",
+          "paragraphs":[
+            "In dit gespreksfragment heeft de zorgverlener een onmiddellijke behoefte van de zorgvrager (het kunnen rusten) kunnen invullen nadat ze geëxploreerd heeft wat precies de (levens)moeheid omvat en betekent voor de zorgvrager.",
+            "Uitspraken waarbij de zorgvrager een ‘wens tot levenseinde’ uit, bestaan in verschillende gradaties. Dit kan gaan van een ‘overschouwen van het leven’ over ‘levensmoeheid’ tot ‘effectieve doodswensen’. De inhoud van dergelijke gesprekken worden steeds gedeeld met het multidisciplinair team om de hulpvraag duidelijk te krijgen, risicofactoren die aan de basis liggen van eventuele levensmoeheid op te sporen én de nodige ondersteuning vanuit het volledige team te kunnen geven.",
+            "Dit fragment gebruikt het thema ‘levensbeschouwing’ om het doel en effect van een aantal gespreksvaardigheden te duiden. Het kan een voorbeeld geven van hoe je in dialoog kan blijven met de zorgvrager. Elk verhaal is uniek en daarom is het ook belangrijk om jouw eigen dialoog te kunnen aanpassen aan een concrete zorgsituatie.",
+            "Niet alleen elk verhaal, maar ook elk gesprek is uniek. Dit gespreksfragment heeft als doel ‘een goed voorbeeld’ te zijn, naast andere mogelijke goede voorbeelden.",
+            "Ben je geboeid geraakt door het thema ‘Levensbeschouwing’, dan kan je op volgende websites nog meer informatie vinden:"
+          ],
+          "links": [
+            {
+              "title": "De ontwikkeling van doodsgedachten bij ouderen. Suïcidepreventie bij ouderen - Praktijkadviezen voor zorg- en hulpverleners.",
+              "url": "https://www.vlesp.be/publicaties"
+            },
+            {
+              "title": "Ethisch advies rond levensmoeheid",
+              "url": "https://www.zorgneticuro.be/sites/default/files/201112%20Ethisch%20advies%2022%20levensmoeheid%20def.pdf"
+            }
+          ]
+        }
+      }
+    ]
+  }
