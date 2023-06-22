@@ -6,7 +6,7 @@ const Sidebar = () => {
   return (
     <div className="border-end bg-white" id="sidebar-wrapper">
          <Link to={"/"} style={{textDecoration: "none", color: "black"}}>
-            <div className="sidebar-heading border-bottom bg-light">Interactief leerpad Levensbeschouwing</div>
+            <div className="sidebar-heading border-bottom bg-light">Interactieve leerpaden</div>
          </Link>
         <div className="list-group list-group-flush">
         

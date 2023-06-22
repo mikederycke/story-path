@@ -13,10 +13,6 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
   const [answer, setAnswer] = useState('')
   const [feedback, setFeedback] = useState(false)  
   
-  function getFeedback() {
-    setFeedback(true)
-  }
-
   function completeStep(choice, answer){
     setFeedback(false)
     onComplete(choice, answer)
@@ -83,7 +79,7 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
         />
         </FloatingLabel>
         <br></br>
-        <button className="btn btn-primary me-2" onClick={() => getFeedback()}>
+        <button className="btn btn-primary me-2" onClick={() => setFeedback(true)}>
             Krijg feedback
         </button>
         <button className="btn btn-danger " onClick={() => onReset()}>

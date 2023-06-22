@@ -1,14 +1,53 @@
 import React, { useState } from 'react'
 import { Button, InputGroup, Form } from 'react-bootstrap'
 
-const ScenarioStart = ({walkthrough, description, onClickStart}) => {
+const ScenarioStart = ({step, walkthrough, description, onClickStart}) => {
     const [username, setUsername] = useState()
     const [email, setEmail] = useState()
 
+
+    const contentList = (content) => {
+        return (
+          <ul key={Math.random()}>
+            {content.map(e => 
+                <li key={Math.random()}>
+                  {e.title ?  <i>{e.title}: </i>: null}
+                  {e.descr}
+                  {e.content ? contentList(e.content) : null}
+                </li>
+            )}
+          </ul>
+        )
+      }
   return (
     <div>
         {/* <h4>Beschrijving van het scenario</h4> */}
         <p>{description}</p>
+        {/* {step.goals ? 
+            <div>
+                <h4>{step.goals.title}</h4>
+                <ul>
+                    {step.goals.list.map(e => 
+                        <li key={Math.random()}>{e}</li>
+                    )}
+                </ul>
+            </div> : null}
+
+        {step.theory ? 
+            <div>
+                <h4>{step.theory.title}</h4>
+                <p>{step.theory.description}</p>
+                <ul>
+                    {step.theory.list.map(e => 
+                        <div key={e.block}>
+                            <h6>{e.title}</h6>
+                                {contentList(e.content)}
+                        </div>
+                    )}
+                </ul>
+            </div> : null}
+         */}
+
         <h4>Werking van dit scenario</h4>
         {/* <p>{walkthrough}</p> */}
          <p>In dit interactief scenario ga je stap per stap een scene voorgeschoteld krijgen. 

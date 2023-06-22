@@ -1,7 +1,5 @@
-import {useState }from 'react'
 import { Outlet, useLoaderData, Link } from 'react-router-dom'
 import { getScenarios } from '../services/scenarios'
-import Scenario from '../components/Scenario/Scenario'
 
 export async function loader(){
   const data = await getScenarios()

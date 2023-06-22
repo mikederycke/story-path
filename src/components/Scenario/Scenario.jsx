@@ -22,6 +22,7 @@ function Scenario() {
 
   //on page load, get the saved status
   useEffect(() => {
+    
     //get the status
     if(data){
       setScenario(data.scenario)
@@ -34,6 +35,8 @@ function Scenario() {
         setScenarioCompleted(false)
       }
     }
+
+    console.log(scenario)
   }, [data])
 
   function handleCompleteStep(choice, feedback) {
@@ -41,10 +44,12 @@ function Scenario() {
     const currentStep = step + 1
     
     
-    if(step === scenario.steps.length -1){
+    if(step === scenario.steps.length){
       setStep(0)
-      setScenarioCompleted(true)
-      updateStatus(scenario.id, answers, 0, true);
+      updateStatus(scenario.id, answers, 0, true).then(() => {  
+        setScenarioCompleted(true)
+      })
+      
     }else{
       setStep(currentStep)
       updateStatus(scenario.id, answers, currentStep, false);
@@ -70,7 +75,7 @@ function Scenario() {
       {scenario === 0 ? <h1>Loading...</h1> : <h1>{scenario.title}</h1>}
       {step === 0 && !scenarioCompleted ? 
         <ScenarioStart 
-            description={scenario.description} 
+            description={scenario.description}
             walkthrough={walkthrough} 
             onClickStart={handleStart} /> 
         : null}
@@ -79,7 +84,7 @@ function Scenario() {
       
       {step > 0 && step <= scenario.steps.length ? 
         <ScenarioChoice 
-          step={scenario.steps[step]} 
+          step={scenario.steps[step-1]} //zero based
           onComplete={handleCompleteStep} 
           onReset={handleReset}
           /> : null}

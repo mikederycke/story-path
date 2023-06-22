@@ -12,7 +12,6 @@ const ScenarioFinal = ({id, final, onReset}) => {
       getAnswers(id).then(
         (answers) => {
           setAnswers(answers)
-          console.log(answers)
         }
 
       )
