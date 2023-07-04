@@ -10,6 +10,7 @@ import Goals, {loader as GoalLoader} from './components/Goals';
 import Theory, {loader as TheoryLoader} from './components/Theory';
 
 import ScenariosPage, {loader as ScenariosLoader} from './pages/ScenariosPage';
+import Home from './components/Home';
 
 
 const router = createBrowserRouter([
@@ -19,6 +20,11 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
 
     children: [
+      {
+        path: '/home',
+        element: <Home />,
+
+      },
       {
         path: '/doelstellingen',
         element: <Goals />,

@@ -72,6 +72,17 @@ function Scenario() {
 
   return (
     <>
+    <ul class="nav nav-tabs">
+      <li class="nav-item">
+        <p class="nav-link active" aria-current="page" href="#">Oefening</p>
+      </li>
+      <li class="nav-item">
+        <div class="nav-link">Doelstellingen</div>
+      </li>
+      <li class="nav-item">
+        <div class="nav-link" href="#">Theorie</div>
+      </li>
+    </ul>
       {scenario === 0 ? <h1>Loading...</h1> : <h1>{scenario.title}</h1>}
       {step === 0 && !scenarioCompleted ? 
         <ScenarioStart 
