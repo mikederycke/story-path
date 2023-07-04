@@ -20,13 +20,13 @@
         "step": 1,
         "title": "Stap 1",
         "description": "Een zorgvrager dient nuchter te zijn voor een operatie. Wat is volgens jou de beste werkwijze om af te toetsen of de zorgvrager nuchter is?",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "6l8saDrkEg8",
         "titleChoiceA": "Wanneer heb je voor het laatst iets gegeten of gedronken?",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "tvqf4KcSra0",
         "titleChoiceB": "Wanneer heb je voor het laatst gegeten?",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "myXIzg2iyrU",
         "titleChoiceC": "Sinds wanneer ben je nuchter?",
-        "videoIdChoiceC": "py53-Lz2aS0",
+        "videoIdChoiceC": "23-_EaS2NRU",
         "feedbackA": {
           "correct": false,
           "explanation": "Dit is een voorbeeld van een dubbele vraagstelling. Mensen zijn geneigd om enkel te antwoorden op de laatste vraag. Hier krijg je dus enkel een antwoord op ‘wanneer het laatst gedronken werd’. De zorgvrager is zenuwachtig. Dit maakt het moeilijker om zich te concentreren op een gesprek. Korte en concrete vragen zijn in dit geval meer geschikt."
@@ -44,11 +44,11 @@
         "step": 2,
         "title": "Stap 2",
         "description": "Herkennen van emoties",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "UeOlNb0r1pA",
         "titleChoiceA": "Ik zie dat je nerveus bent voor de operatie. Klopt dat?",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "QdEekKHWl5Y",
         "titleChoiceB": "Nog een beetje geduld, we werken zo snel we kunnen.",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "KxBgfRck6ok",
         "feedbackA": {
           "correct": true,
           "explanation": "De uitspraak ‘dat die operatie maar snel komt’ heeft een inhoudelijk (de operatie mag snel doorgaan), een expressief (schuifelen op de stoel, zuchten, gezichtsuitdrukking, je voelt nervositeit/ angst), relationeel (afhankelijke positie wordt aangegeven met deze zin namelijk anderen bepalen wanneer de operatie doorgaat) en appellerend niveau (impliciete vraag naar zorgverlener om voort te maken). De zorgverlener merkt de emotie op en schakelt over naar het expressief niveau waarbij ze de emotie benoemt en dus teruggeeft aan de zorgvrager. De zorgverlener toetst hier ook af of haar indruk juist is en nodigt uit om verder te praten."
@@ -63,13 +63,13 @@
         "step": 3,
         "title": "Stap 3",
         "description": "Toekennen van emoties",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "fNVJe0c6ixk",
         "titleChoiceA": "Oh maar die horrorverhalen, je moet daar niet naar luisteren. Uiteindelijk is dat maar sensatie. Alles zal hier heel goed verlopen.",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "y0TC8NcDVlg",
         "titleChoiceB": "En pieker je daarover?",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "QcKE5V_Xmm0",
         "titleChoiceC": "Ken je mensen die niet meer wakker geworden zijn?",
-        "videoIdChoiceC": "py53-Lz2aS0",
+        "videoIdChoiceC": "33GpwEgdWJU",
         "feedbackA": {
           "correct": false,
           "explanation": "De emoties worden weggewuifd door een belofte te maken dat niet 100% zeker is. Dit is een voorbeeld van negeren van emoties."
@@ -85,7 +85,7 @@
       }
     ],
     "final": {
-      "videoId": "py53-Lz2aS0",
+      "videoId": "XXUnBuFzI_U",
       "paragraphs":["De zorgverlener heeft herkend dat de zorgvrager angstig is voor de operatie. Ze heeft de behoefte van veiligheid ingevuld door informatie te geven over het verloop van de dag, duidelijk te maken dat ze beschikbaar is door te wijzen naar het oproepsysteem en te vragen naar hoe hij zich kan afleiden."],
       "links": [
         
