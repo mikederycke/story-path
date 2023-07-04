@@ -7,11 +7,11 @@
         "step": 1,
         "title": "Startscene",
         "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "dC6FhRWdJEM",
         "titleChoiceA": "Iedereen ligt 's nachts wel eens wakker",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "3ZZrsOU8aCA",
         "titleChoiceB": "Te oud voor geworden?",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "lhpLbcrDFEc",
         "feedbackA": {
           "correct": false,
           "explanation": "In communicatie zijn er verschillende veelgemaakte fouten: verbloemen, minimaliseren, verrechtvaardigen/rationaliseren, over eigen ervaringen praten, in discussie gaan, zorgvrager een oplossing opdringen, negeren van gevoelens"
@@ -25,11 +25,11 @@
         "step": 2,
         "title": "Vervolg scene 1",
         "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "Z8aXkY_HXCQ",
         "titleChoiceA": "Bedoel je dan dat je pijn hebt 's nachts?",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "zWUmpBlKYNs",
         "titleChoiceB": "Met ouder worden, worden de kwaaltjes er ook niet minder op natuurlijk.",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "0AN5gbgm2bU",
         "feedbackA": {
           "correct": true,
           "explanation": "Zorgverlener vraagt door aan de hand van een gesloten vragen. Op die manier maakt ze de boodschap van de zorgvrager concreet + checkt ze of ze de boodschap goed begrepen heeft + eventueel kan de zorgvrager hier nog meer over vertellen."
@@ -43,11 +43,65 @@
         "step": 3,
         "title": "Vervolg scene 2",
         "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
-        "videoId": "py53-Lz2aS0",
+        "videoId": "eNdlBwUI5fM",
         "titleChoiceA": "Oei, hoe bedoel je dat?",
-        "videoIdChoiceA": "IvTLE25AzeQ",
+        "videoIdChoiceA": "vt4qz8RW2n4",
         "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
-        "videoIdChoiceB": "mwPB8T30EFU",
+        "videoIdChoiceB": "pZm6D-ued5A",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "Zorgverlener maakt de fout van het in discussie gaan. Ze gaat in discussie met de zorgvrager over diens ervaring en bepaalt voor de zorgvrager hoe ze zich mag/moet voelen of wat ze mag/moet ervaren. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet erkend voelt in haar beleving en het gesprek stilvalt. Zorgverlener negeert de psychosociale achtergrond van de zorgvrager."
+        }
+      },
+      {
+        "step": 4,
+        "title": "Vervolg scene 2",
+        "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+        "videoId": "8otKu6_QPlc",
+        "titleChoiceA": "Oei, hoe bedoel je dat?",
+        "videoIdChoiceA": "mUZmM9jwhl8",
+        "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
+        "videoIdChoiceB": "FB-wu3bsHVw",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "Zorgverlener maakt de fout van het in discussie gaan. Ze gaat in discussie met de zorgvrager over diens ervaring en bepaalt voor de zorgvrager hoe ze zich mag/moet voelen of wat ze mag/moet ervaren. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet erkend voelt in haar beleving en het gesprek stilvalt. Zorgverlener negeert de psychosociale achtergrond van de zorgvrager."
+        }
+      },
+      {
+        "step": 5,
+        "title": "Vervolg scene 2",
+        "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+        "videoId": "KcAll968fSI",
+        "titleChoiceA": "Oei, hoe bedoel je dat?",
+        "videoIdChoiceA": "aIxYvC5rHoM",
+        "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
+        "videoIdChoiceB": "W2eebuKUUAo",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "Zorgverlener maakt de fout van het in discussie gaan. Ze gaat in discussie met de zorgvrager over diens ervaring en bepaalt voor de zorgvrager hoe ze zich mag/moet voelen of wat ze mag/moet ervaren. Het effect is echter dat de zorgvrager zich niet gehoord voelt, zich niet erkend voelt in haar beleving en het gesprek stilvalt. Zorgverlener negeert de psychosociale achtergrond van de zorgvrager."
+        }
+      },
+      {
+        "step": 6,
+        "title": "Vervolg scene 2",
+        "description": "Hier kan je een mogelijke beschrijving plaatsen van deze stap",
+        "videoId": "5u34rPsUjx8",
+        "titleChoiceA": "Oei, hoe bedoel je dat?",
+        "videoIdChoiceA": "EocTJjFCmSg",
+        "titleChoiceB": "Het is niet omdat je ouder wordt dat het leven geen zin meer heeft.",
+        "videoIdChoiceB": "Pp_mEH33QZ0",
         "feedbackA": {
           "correct": true,
           "explanation": "Zorgverlener geeft een korte, echte reactie ('oei') en vraagt door aan de hand van een open vraag. Op die manier nodigt ze de zorgvrager uit om meer te vertellen en creëert ze een goede zorgrelatie."
@@ -59,7 +113,7 @@
       }
     ],
     "final": {
-      "videoId": "py53-Lz2aS0",
+      "videoId": "MJVw-wgHvHQ",
       "paragraphs":[
         "In dit gespreksfragment heeft de zorgverlener een onmiddellijke behoefte van de zorgvrager (het kunnen rusten) kunnen invullen nadat ze geëxploreerd heeft wat precies de (levens)moeheid omvat en betekent voor de zorgvrager.",
         "Uitspraken waarbij de zorgvrager een ‘wens tot levenseinde’ uit, bestaan in verschillende gradaties. Dit kan gaan van een ‘overschouwen van het leven’ over ‘levensmoeheid’ tot ‘effectieve doodswensen’. De inhoud van dergelijke gesprekken worden steeds gedeeld met het multidisciplinair team om de hulpvraag duidelijk te krijgen, risicofactoren die aan de basis liggen van eventuele levensmoeheid op te sporen én de nodige ondersteuning vanuit het volledige team te kunnen geven.",
