@@ -3,8 +3,7 @@ import YoutubeVideo from './YoutubeVideo';
 import Accordion from 'react-bootstrap/Accordion'
 
 const ExerciseFeedback = ({step, answer, choice,  onComplete}) => {
-  console.log(step)
-  console.log(answer)
+
   return (
     <>
         <div className="row">

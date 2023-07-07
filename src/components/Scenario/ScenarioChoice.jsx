@@ -1,7 +1,7 @@
 import FloatingLabel from 'react-bootstrap/FloatingLabel';
 import Form from 'react-bootstrap/Form';
 import ScenarioFeedback from './ScenarioFeedback';
-import {useState} from 'react';
+import {useEffect, useState} from 'react';
 import YoutubeVideo from './YoutubeVideo';
 
 
@@ -18,6 +18,16 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
     onComplete(choice, answer)
   }
 
+  function getFeedback(){
+    setFeedback(true)
+    //If no choice was clicked (A), set choice to A
+ 
+
+  }
+  useEffect(() => { 
+    setChoice('A')
+    setAnswer('')
+  }, [step])
 
   return (
     <>
@@ -32,7 +42,7 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
         <p>Stap {step.step}: {step.description}</p>
         <div className="row">
             <div className="col-12">
-            <YoutubeVideo videoId={step.startVideoId} />
+            <YoutubeVideo videoId={step.videoId} />
             </div>
         </div>
         <br></br>
@@ -79,7 +89,7 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
         />
         </FloatingLabel>
         <br></br>
-        <button className="btn btn-primary me-2" onClick={() => setFeedback(true)}>
+        <button className="btn btn-primary me-2" onClick={() => getFeedback()}>
             Krijg feedback
         </button>
         <button className="btn btn-danger " onClick={() => onReset()}>

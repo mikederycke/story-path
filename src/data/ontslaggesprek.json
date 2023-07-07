@@ -2,7 +2,10 @@
     "id": 6,
     "title": "Ontslaggesprek",
     "description": "Dit is een algemene beschrijving van dit scenario. In te vullen naar believen (of niet)",
-    "goals": [
+    "goals": {
+      "title": "Doelstellingen",
+      "description": "In dit scenario komen een aantal aandachtspunten tijdens het uitvoeren van een ontslaggesprek aan bod. Een goed uitgevoerd ontslaggesprek voorkomt dat de zorgvrager onvoldoende geïnformeerd het ziekenhuis verlaat. Bezorgdheid, angst, complicaties omdat bijvoorbeeld een wonde onjuist verzorgd werd en heropnames kunnen vermeden worden. De doelstelling is dan ook dat je in staat bent om de zorgvrager te informeren over de nodige nazorg van zijn gezondheidstoestand bij ontslag.",
+      "list": [
         {"title": "", "description": "Zorg evalueren en beleving van zorgvrager bevragen"},
         {"title": "", "description": "Voorlichting leefregels en nazorg. Hierbij is het belangrijk om volgende onderwerpen te overlopen.", 
         "content": [
@@ -19,7 +22,8 @@
         {"title": "", "description": "Afscheid nemen: Het gesprek wordt vervolgens afgesloten door jouw contactgegevens mee te geven samen met de nodige documenten en hem/haar een goede thuiskomst te wensen"},
         {"title": "", "description": "Vragen van zorgvrager beantwoorden/ controleren of informatie begrepen werd"},
         {"title": "", "description": "Afscheid nemen: Het gesprek wordt vervolgens afgesloten door jouw contactgegevens mee te geven samen met de nodige documenten en hem/haar een goede thuiskomst te wensen"}
-    ],
+      ]
+    },
     "steps": [
       {
         "step": 1,

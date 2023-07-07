@@ -2,19 +2,22 @@
     "id": 5,
     "title": "Omgaan met emoties",
     "description": "In dit scenario ontmoet de hulpverlener een zorgvrager die angstig is voor zijn komende operatie.",
-    "goals": [
+    "goals": {
+      "title": "Doelstellingen",
+      "description": "",
+      "list": [
         {"title": "", "description": "De doelstelling van het gesprek is dat je in staat bent om de emotie te hanteren. Dit kan door te focussen op de behoefte die verscholen zit achter de emotie en deze vervolgens in te vullen."},
         {"title": "", "description": "Zo heeft iemand die angstig is behoefte aan veiligheid. Veiligheid kan geboden worden door informatie te geven, zorgen voor afleiding, nabijheid van een vertrouwenspersoon, samen dingen uitvoeren."},
         {"title": "", "description": "De behoefte achter verdriet is troost vinden. Zo gaan mensen met hun verdriet regelmatig anderen opzoeken om hun verhaal te kunnen vertellen."},
         {"title": "", "description": "Iemand die boos is wil gehoord worden. Hier zal luisteren deze behoefte invullen en pas nadien is er ruimte om bespreken hoe men tot een oplossing kan komen."},
         {"title": "", "description": "De fasen in het hanteren van een emotie zijn", 
         "content": [
-            {"title": "", "description": "Voelen - Opmerken van de emotie"},
+            {"title": "Voelen", "description": "Opmerken van de emotie"},
             {"title": "", "description": "Benoemen - Benoemen van de emotie"},
             {"title": "", "description": "Toekennen - Achterhalen van waar de emotie vandaan komt"},
             {"title": "", "description": "Actie - De behoefte invullen en hulp bieden"}
         ]}
-    ],
+    ]},
     "steps": [
       {
         "step": 1,

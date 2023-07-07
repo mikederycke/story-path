@@ -1,7 +1,49 @@
 {
     "id": 1,
     "title": "Levensbeschouwing",
-    "description": "Dit is een algemene beschrijving van dit scenario. In te vullen naar believen (of niet)",
+    "description": "In dit scenario ga je als zorgverlener in gesprek met Wendy. Wendy is een oudere dame die in een woonzorgcentrum verblijft en wiens partner reeds overleden is. Jij verplaatst je in de verpleegkundige die de kamer van Wendy binnengaat voor verzorging.",
+    "guide": "In dit interactief scenario krijgt het gesprek tussen de verpleegkundige en Wendy stap voor stap vorm. Bij elke stap krijg je eerst een scène uit het gesprek te zien en aansluitend kan je kiezen tussen 2 of drie mogelijke reacties. Je kiest de reactie die volgens jou het best past in het gesprek (of: hoe jij als verpleegkundige zou reageren) én je beargumenteert je keuze. Onmiddellijk erna krijg je feedback op de verschillende reacties. Op het einde van het scenario krijg je een overzicht van al jouw keuzes en argumentatie.",
+    "goals": {
+      "title": "Doelstellingen",
+      "description": "De student kan deskundig en menswaardig omgaan met existentiële vragen en zich hierbij richten op de behoeften van de zorgvrager."
+    },
+    "theory": {
+      "id": 2,
+      "title": "Theorie",
+      "description": "Hieronder vind je de specifieke theorie voor dit scenario.",
+      "list": [
+        {
+          "block": "1",
+          "title": "Psychosociale achtergrond",
+          "content": [
+            {
+              "title": "Kernconflict Erikson ‘ego-integriteit’",
+              "descr": "Zinvolle afsluiting van het leven. Persoon slaagt erin om zijn hele persoon tot een eenheid te verwerken, met inbegrip van alle eigenschappen en gebeurtenissen.  Met kan zich dus verzoenen met het leven zoals het geweest is, met de vreugdevolle en de verdrietige of moeilijke gebeurtenissen. Dit kan ertoe leiden dat zorgvrager overschouwt dat het leven goed geweest is en afgerond mag worden. De negatieve pool, de wanhoop, kan er ook toe leiden dat zorgvrager een einde wil maken aan een leven dat als niet-waardevol beschouwd wordt."
+              
+            },{
+              "title": "Holistisch mensbeeld",
+              "descr": "niet alleen de biologische dimensie van de zorgvrager speelt een rol, maar ook de sociale context (hoe ziet het sociale netwerk eruit?), bepaalde emoties (zich eenzaam voelen of net tevredenheid over hoe het leven geweest is), bepaalde overtuigingen (het is tijd voor mij om te gaan), … en ook een spirituele dimensie (hoe kijkt zorgvrager naar de waarde van het leven, de dood, …)."
+            },{
+              "title": "Coping",
+              "descr": "op welke manier gaat de zorgvrager om met de dingen die zich voordoen in diens leven? Hoe gaat zorgvrager om met het ouder worden, de groter wordende afhankelijkheid?",
+              "content":[
+                {
+                  "title": "Probleemgerichte coping",
+                  "descr": "het leven doet teveel pijn, dus de dood als oplossing? Of kan zorgvrager nadenken over mogelijke manieren om het leven nog zinvol te maken? Kan zorgvrager kijken naar de dingen waarin hij/zij wel nog autonoom is?"
+                },{
+                  "title": "Emotiegerichte coping",
+                  "descr": "is het voor de zorgvrager voldoende als die af en toe kan/mag ventileren, de emoties hierrond uiten?"
+                }
+              ]
+            },{
+              "title": "Sociale relaties",
+              "descr": "De basishouding van een zorgverlener wordt gekenmerkt door:"
+            }
+          ]
+        }
+      ]
+    },
+
     "steps": [
       {
         "step": 1,
