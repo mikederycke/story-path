@@ -12,6 +12,10 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
   const [choice, setChoice] = useState('A')
   const [answer, setAnswer] = useState('')
   const [feedback, setFeedback] = useState(false)  
+
+  const flexbasis = {
+    flexBasis: "100px"
+  };
   
   function completeStep(choice, answer){
     setFeedback(false)
@@ -47,15 +51,21 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
         </div>
         <br></br>
         
-        <div className="row">
-            <div className="col-6">
-            <p>A: {step.titleChoiceA}</p>
-            <YoutubeVideo videoId={step.videoIdChoiceA} />
+        <div className="d-flex flex-row justify-content-start flex-no-wrap">
+            <div className='p-2' style={flexbasis}>
+              <p>A: {step.titleChoiceA}</p>
+              <YoutubeVideo videoId={step.videoIdChoiceA} />
             </div>
-            <div className="col-6">
-            <p>B: {step.titleChoiceB}</p>
-            <YoutubeVideo videoId={step.videoIdChoiceB} />
+            <div className="p-2" style={flexbasis}>
+              <p>B: {step.titleChoiceB}</p>
+              <YoutubeVideo videoId={step.videoIdChoiceB} />
             </div>
+            {step.titleChoiceC ? 
+              <div className="p-2" style={flexbasis}>
+                <p>B: {step.titleChoiceC}</p>
+                <YoutubeVideo videoId={step.videoIdChoiceC} />
+              </div>
+            : null}
         </div>
         <br></br>
         <p>Welke video heeft de beste reactie? En waarom? Argumenteer!</p>
@@ -78,6 +88,16 @@ const ScenarioChoice = ({step, onComplete, onReset}) => {
             id={`inline-radio-B`}
             onClick={() => setChoice('B')}
           />
+          {step.titleChoiceC ? 
+          <Form.Check
+            inline
+            label="C"
+            name="group1"
+            type="radio"
+            id={`inline-radio-C`}
+            onClick={() => setChoice('C')}
+          />
+          : null}
         </div>
       
         <FloatingLabel controlId="floatingTextarea2" label="Argumentatie">
